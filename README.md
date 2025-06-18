@@ -8,7 +8,7 @@ A responsive web application for browsing and watching movies with admin functio
 - **Search Functionality**: Filter movies by title in real-time.
 - **Media Player**: Fullscreen video player for watching movies.
 - **Admin Controls**:
-  - Login/Logout functionality (password: `control_14`)
+  - Login/Logout functionality 
   - Edit movie titles (visible only when logged in as admin)
 - **Responsive Design**: Works on various screen sizes with smooth hover effects.
 

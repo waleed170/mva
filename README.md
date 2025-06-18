@@ -24,7 +24,7 @@ A responsive web application for browsing and watching movies with admin functio
 2. Open `index.html` in a web browser.
 3. Use the search bar to find movies.
 4. Click on any movie to play it in fullscreen mode.
-5. Admin users can click the login button (password: `control_14`) to enable title editing.
+5. Admin users can click the login button to enable title editing.
 
 ## File Structure
 

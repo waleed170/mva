@@ -21,7 +21,7 @@ const movies = [
   // Admin Login Functionality
   loginButton.addEventListener("click", () => {
     const password = prompt("Enter admin password:");
-    if (password === "password") { // Simple password check
+    if (password === "control_14") { // Simple password check
       isAdmin = true;
       loginButton.classList.add("hidden");
       logoutButton.classList.remove("hidden");
